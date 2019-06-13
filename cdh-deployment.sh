@@ -32,7 +32,7 @@ sudo wget https://archive.cloudera.com/cm5/redhat/7/x86_64/cm/5.14/repodata/prim
 sudo wget https://archive.cloudera.com/cm5/redhat/7/x86_64/cm/5.14/repodata/primary.xml.gz.asc
 sudo wget https://archive.cloudera.com/cm5/redhat/7/x86_64/cm/5.14/repodata/repomd.xml
 sudo wget https://archive.cloudera.com/cm5/redhat/7/x86_64/cm/5.14/repodata/repomd.xml.asc
-
+#filechange
 #RPM-KEY cloudera 
 cd /var/www/html/CM5.14
 sudo wget https://archive.cloudera.com/cm5/redhat/7/x86_64/cm/RPM-GPG-KEY-cloudera
